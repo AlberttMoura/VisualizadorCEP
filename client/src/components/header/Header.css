@@ -1,0 +1,19 @@
+.header {
+    background-color: #FF5959;
+    color: #fff;
+    display: flex;
+    font-family: 'Space Mono', monospace;
+    padding: 0px 55px;
+    align-items: center;
+    border-bottom: 3px #3E3E3E solid;
+}
+
+.brand-side {
+    text-align: center;
+    padding: 0px 0px 5px;
+}
+
+.brand-name {
+    font-size: 76px;
+    font-weight: bold;
+}
